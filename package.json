@@ -1,10 +1,10 @@
 {
   "name": "mystic_wolf",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crazyfff10/mystic_wolf"
+    "url": "https://github.com/crazyfff10/mystic_wolf"
   },
   "bugs": {
     "url": "https://github.com/crazyfff10/mystic_wolf/issues"
