@@ -1,4 +1,4 @@
-# hao_wallet
+# MYSTIC_WOLF
 
 ## Project setup
 ```
